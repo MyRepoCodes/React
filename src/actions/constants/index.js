@@ -42,4 +42,4 @@ AXIOS.defaults.headers['Content-Type'] = 'application/json';
 export const AUTHTOKEN = localStorage.getItem('authToken') ? localStorage.getItem('authToken'): null;
 
 // Export server url
-export const SERVER_URL = 'http://172.24.0.143:4000';
+export const SERVER_URL = '*****************************';
